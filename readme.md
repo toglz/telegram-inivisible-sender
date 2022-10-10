@@ -41,9 +41,7 @@ user3
 * `max_messages` — Максимально допустимое количество сообщений отправленных за сессию
 
 [Русский readme.md](#russian-readme)
-# <a name="english-readme"></a>Telegram invisible messages sender
-A script for sending invisible (sender only) messages to Telegram
-
+# <a name="english-readme"></a>A script for sending invisible (sender only) messages to Telegram
 A script that allows you to send self-destructing (sender only) messages to Telegram users
 
 ## **Installation**
