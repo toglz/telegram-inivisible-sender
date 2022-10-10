@@ -42,7 +42,7 @@ user3
 
 [Русский readme.md](#russian-readme)
 # <a name="english-readme"></a>Telegram invisible messages sender
-# A script for sending invisible (sender only) messages to Telegram
+A script for sending invisible (sender only) messages to Telegram
 
 A script that allows you to send self-destructing (sender only) messages to Telegram users
 
