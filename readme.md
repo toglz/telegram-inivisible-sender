@@ -15,7 +15,7 @@ pip install -r requirements.txt
 
 * `api_id` — Api Id вашего Telegram аккаунта
 * `api_hash` — Api Hash вашего Telegram аккаунта
-> Вы можете получить эти 👆👆👆 значения на сайте [my.telegram.org](my.telegram.org)
+> Вы можете получить эти 👆👆👆 значения на сайте `my.telegram.org`
 * `message` — Это сообщение будет отправляться пользователям из *users_db.txt*
 * `users_db.txt` — Файл с именами пользователей в следующем формате:
 
@@ -58,7 +58,7 @@ pip install -r requirements.txt
 
 * `api_id` - Api Id of your Telegram account
 * `api_hash` - Api Hash of your Telegram account
-> You can get these 👆👆👆 values at [my.telegram.org](my.telegram.org)
+> You can get these 👆👆👆 values at `my.telegram.org`
 * `message` - This message will be sent to users from *users_db.txt
 * `users_db.txt` - File with user names in the following format:
 
