@@ -4,14 +4,19 @@
 Скрипт, позволяющий отправлять самоуничтожающиеся (Только для отправителя) сообщения пользователям Telegram
 
 ## **Установка**
-— Распаковать загруженный архив в любую директорию.
-— Запустить консоль в директории где был распакован архив и выполнить команду:
+* Распаковать загруженный архив в любую директорию.
+* Запустить консоль в директории где был распакован архив и выполнить команду:
 ```
 pip install -r requirements.txt
 ```
+* Задать [необходимые для работы скрипта данные](#important-values)
+* Выполнить команду:
+```
+python app.py
+```
 
 ## **Настройка**
-### Обязательно укажите следующие данные перед запуском скрипта:
+### <a name="important-values"></a>Обязательно укажите следующие данные перед запуском скрипта:
 
 * `api_id` — Api Id вашего Telegram аккаунта
 * `api_hash` — Api Hash вашего Telegram аккаунта
@@ -50,9 +55,14 @@ A script that allows you to send self-destructing (sender only) messages to Tele
 ```
 pip install -r requirements.txt
 ```
+* Set [data needed for the script to work](#important-values-en)
+* Then run the command:
+```
+python app.py
+```
 
 ## **Setup**
-### Be sure to enter the following data before running the script:
+### <a name="important-values-en"></a>Be sure to enter the following data before running the script:
 
 * `api_id` - Api Id of your Telegram account
 * `api_hash` - Api Hash of your Telegram account
