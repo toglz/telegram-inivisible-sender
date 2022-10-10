@@ -4,7 +4,6 @@
 Скрипт, позволяющий отправлять самоуничтожающиеся (Только для отправителя) сообщения пользователям Telegram
 
 ## **Установка**
----
 — Распаковать загруженный архив в любую директорию.
 — Запустить консоль в директории где был распакован архив и выполнить команду:
 ```
@@ -12,7 +11,6 @@ pip install -r requirements.txt
 ```
 
 ## **Настройка**
----
 ### Обязательно укажите следующие данные перед запуском скрипта:
 
 * `api_id` — Api Id вашего Telegram аккаунта
@@ -49,7 +47,6 @@ user3
 A script that allows you to send self-destructing (sender only) messages to Telegram users
 
 ## **Installation**
----
 - Extract the downloaded archive to any directory.
 - Run the console in the directory where you unpacked the archive and run the command:
 ```
@@ -57,7 +54,6 @@ pip install -r requirements.txt
 ```
 
 ## **Setup**
----
 ### Be sure to enter the following data before running the script:
 
 * `api_id` - Api Id of your Telegram account
